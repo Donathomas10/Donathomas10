@@ -4,13 +4,13 @@
 
 ### A passionate Mobile Developer
 
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-
 </div>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 👨‍💻 About Me
 
@@ -20,17 +20,19 @@
 
 📫 Reach me at **donathomastp@gmail.com**
 
-</div>
-
----
-
-<div align="center">
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dona-thomas-44606a1b3/)
 
-</div>
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,13 +45,5 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Donathomas10&icon=0&color=0)
 
 </div>
